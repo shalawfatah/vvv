@@ -5,7 +5,6 @@
 # If you do use this repo, everything you commit will be undone, VVV always resets site provisioner repos to the remote version
 
 # So Ignore everything
-*
 # And explicitly extra ignore public_html
 # VVV will hard reset and pull on provision,
 # and you will lose all your work

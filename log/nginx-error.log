@@ -1,0 +1,2 @@
+2022/09/17 21:11:01 [error] 13006#13006: *8 open() "/srv/www/shalaw/public_html/favicon.ico" failed (2: No such file or directory), client: 192.168.56.1, server: shalaw, request: "GET /favicon.ico HTTP/1.1", host: "shalaw", referrer: "http://shalaw/"
+2022/09/17 21:13:05 [error] 13006#13006: *11 open() "/srv/www/shalaw/public_html/favicon.ico" failed (2: No such file or directory), client: 192.168.56.1, server: shalaw, request: "GET /favicon.ico HTTP/2.0", host: "shalaw", referrer: "https://shalaw/"

@@ -1,0 +1,8 @@
+# auto-generated file
+path: "public_html"
+@vvv:
+  ssh: vagrant
+  path: /srv/www/shalaw/public_html
+@shalaw:
+  ssh: vagrant
+  path: /srv/www/shalaw/public_html
